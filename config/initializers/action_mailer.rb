@@ -1,0 +1,1 @@
+Rails.application.config.action_mailer.preview_paths = ["#{Rails.root}/spec/mailers/previews"]
